@@ -1,0 +1,14 @@
+hr{
+	height: 5px;
+	max-width: 500px;
+	background-color: grey;
+	margin: 20px;
+}
+
+.recipes{
+	padding: 10px;
+	max-width: 400px;
+	background-color: #eef;
+	margin: 0px auto;
+	font-size: 1.25rem;
+}
